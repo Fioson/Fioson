@@ -6,6 +6,7 @@
   - 🍳 I am good at cooking/baking
   - 🎮 I play many video games
   - 💻 Learning how to code
+  -  Teaching myself 中文
 
 # **__Some things I would like to learn in the future:__**
   - TensorFlow
